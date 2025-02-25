@@ -1,0 +1,14 @@
+{
+	"id": "ApiKey-f5164ba9-6fa4-4d11-b765-2a0e53d41284",
+	"crn": "crn:v1:bluemix:public:iam-identity::a/454762bbfb3e4afe9f14f6684d5953f4F-3013574F::apikey:ApiKey-f5164ba9-6fa4-4d11-b765-2a0e53d41284",
+	"iam_id": "IBMid-691000R8X6",
+	"account_id": "454762bbfb3e4afe9f14f6684d5953f4",
+	"name": "MyDockerKey",
+	"description": "API Key para Kubernetes",
+	"apikey": "6WOSc1n7vd7a0oByuiwENNxM1ZImhs-m5KsKTiqfvBu4",
+	"locked": false,
+	"entity_tag": "1-03d1daa8f25044002dd44a9996bbd8da",
+	"created_at": "2025-02-25T23:06+0000",
+	"created_by": "IBMid-691000R8X6",
+	"modified_at": "2025-02-25T23:06+0000"
+}
